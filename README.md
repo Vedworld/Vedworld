@@ -1,4 +1,4 @@
-👨‍💻 Vedant S Kindarley | Full-Stack Developer
+# **👨‍💻 Vedant S Kindarley | Full-Stack Developer**
 Welcome to my GitHub! I'm Vedant, a passionate software developer transitioning from mechanical engineering to the tech world. My focus is on building dynamic, user-friendly applications using modern technologies. I have experience working with both frontend and backend tools, creating seamless full-stack projects.
 
 🚀 Projects
