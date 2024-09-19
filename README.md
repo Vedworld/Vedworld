@@ -15,17 +15,15 @@
 
 <div align="Right">
   <p>
-    👋 Hi, I'm Vedant S Kindarley, a dedicated Full-Stack Developer based in Nagpur, Maharashtra, India. With a background in mechanical engineering and a strong passion for software development, I've transitioned into tech, combining analytical thinking with creative problem-solving.
+    👋 Hi, I'm Vedant S Kindarley, a dedicated Full-Stack Developer based in Nagpur, Maharashtra, India. With a background in mechanical engineering and a strong passion for software development, I've transitioned into tech, combining analytical thinking with creative problem-solving.</p>
 
-💻 My primary expertise lies in web development, focusing on both front-end and back-end technologies. On the front end, I work with React, HTML, CSS, and Bootstrap to craft responsive and dynamic user interfaces. On the back end, I leverage Java, Spring Boot, and Hibernate to build robust and scalable applications. 
+<P>💻 My primary expertise lies in web development, focusing on both front-end and back-end technologies. On the front end, I work with React, HTML, CSS, and Bootstrap to craft responsive and dynamic user interfaces. On the back end, I leverage Java, Spring Boot, and Hibernate to build robust and scalable applications. </P>
 
-🌟 One of my key projects is a comprehensive Flight Reservation System, where I implemented dynamic React components, managed data with Spring Boot and Hibernate, and developed efficient backend models. I'm always eager to tackle complex problems and learn new technologies.
+<p>🌟 One of my key projects is a comprehensive Flight Reservation System, where I implemented dynamic React components, managed data with Spring Boot and Hibernate, and developed efficient backend models. I'm always eager to tackle complex problems and learn new technologies.</p>
 
-🚀 As a lifelong learner, I'm constantly experimenting with new tools, libraries, and frameworks to enhance my development workflow. When I’m not coding, you can find me exploring new programming concepts or working on exciting side projects. 
+<p>🚀 As a lifelong learner, I'm constantly experimenting with new tools, libraries, and frameworks to enhance my development workflow. When I’m not coding, you can find me exploring new programming concepts or working on exciting side projects. </p>
 
-🔗 Feel free to explore my GitHub repositories to see my projects and contributions. I'm always open to collaboration and learning from other developers!
-
-  </p>
+<p>🔗 Feel free to explore my GitHub repositories to see my projects and contributions. I'm always open to collaboration and learning from other developers! </p>
 </div>
 
 ###
