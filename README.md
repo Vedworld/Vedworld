@@ -13,7 +13,7 @@
 
 ###
 
-<div align="Right">
+<div align="left">
   <p>
     👋 Hi, I'm Vedant S Kindarley, a dedicated Full-Stack Developer based in Nagpur, Maharashtra, India. With a background in mechanical engineering and a strong passion for software development, I've transitioned into tech, combining analytical thinking with creative problem-solving.</p>
 
