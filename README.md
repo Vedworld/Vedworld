@@ -6,7 +6,7 @@
 
 <div align="left">
   <p>📧 Email: <a href="mailto:vedantkindarley57703@gmail.com">vedantkindarley57703@gmail.com</a></p>
-  <p>📱 Phone: 9284626491</p>
+  
   <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/vedant-kindarley-308431192/">linkedin.com/in/vedant-kindarley-308431192</a></p>
   <p>🔗 GitHub: <a href="https://github.com/Vedworld">github.com/Vedworld</a></p>
 </div>
