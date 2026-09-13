@@ -28,6 +28,20 @@
 
 ###
 
+<h3 align="left">⚔️ Featured project: Binary Duel</h3>
+
+<div align="left">
+  <p>A 3D knight sword fight drawn entirely in 0s and 1s — spin attacks, an aerial flip and a spinning disarm, rendered live in the browser with plain JavaScript and Canvas.</p>
+  <a href="https://vedworld.github.io/binary-duel/">
+    <img src="https://img.shields.io/static/v1?message=Play%20Live&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="play binary duel live"  />
+  </a>
+  <a href="https://github.com/Vedworld/binary-duel">
+    <img src="https://img.shields.io/static/v1?message=Source%20Code&logo=github&label=&color=555555&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="binary duel source code"  />
+  </a>
+</div>
+
+###
+
 
 
 ###
