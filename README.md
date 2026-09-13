@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://vedworld.github.io/binary-duel/">
-    <img src="./assets/binary-duel.gif" width="100%" alt="Binary Duel: a 3D knight sword fight drawn in 0s and 1s" />
+    <img src="./assets/binary-duel-hd.gif" width="100%" alt="Binary Duel: a 3D knight sword fight drawn in 0s and 1s" />
   </a>
 </p>
 
