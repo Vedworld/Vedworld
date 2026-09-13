@@ -2,6 +2,12 @@
 
 <h2 align="left">Hi 👋! My name is Vedant S Kindarley and I'm a Full-Stack Developer, from Nagpur, Maharashtra.</h2>
 
+<p align="center">
+  <a href="https://vedworld.github.io/binary-duel/">
+    <img src="./assets/binary-duel.gif" width="100%" alt="Binary Duel: a 3D knight sword fight drawn in 0s and 1s" />
+  </a>
+</p>
+
 <p align="left"> 📫 Reach me at:</p>
 
 <div align="left">
@@ -24,20 +30,6 @@
 <p>🚀 As a lifelong learner, I'm constantly experimenting with new tools, libraries, and frameworks to enhance my development workflow. When I’m not coding, you can find me exploring new programming concepts or working on exciting side projects. </p>
 
 <p>🔗 Feel free to explore my GitHub repositories to see my projects and contributions. I'm always open to collaboration and learning from other developers! </p>
-</div>
-
-###
-
-<h3 align="left">⚔️ Featured project: Binary Duel</h3>
-
-<div align="left">
-  <p>A 3D knight sword fight drawn entirely in 0s and 1s — spin attacks, an aerial flip and a spinning disarm, rendered live in the browser with plain JavaScript and Canvas.</p>
-  <a href="https://vedworld.github.io/binary-duel/">
-    <img src="https://img.shields.io/static/v1?message=Play%20Live&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="play binary duel live"  />
-  </a>
-  <a href="https://github.com/Vedworld/binary-duel">
-    <img src="https://img.shields.io/static/v1?message=Source%20Code&logo=github&label=&color=555555&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="binary duel source code"  />
-  </a>
 </div>
 
 ###
