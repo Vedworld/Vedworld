@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi 👋! My name is Vedant S Kindarley and I'm a Full-Stack Developer, from Nagpur, Maharashtra.</h2>
+<h2 align="left">Hi 👋! My name is Vedant S Kindarley and I'm a Full-Stack Developer, from Mumbai, Maharashtra.</h2>
 
 <p align="center">
   <a href="https://vedworld.github.io/binary-duel/">
